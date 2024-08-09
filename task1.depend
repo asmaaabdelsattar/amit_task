@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1721427349 source:e:\amit\task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grade.h"
+
+1721427349 e:\amit\task1\grade.h
+
+1721427349 source:e:\amit\task1\grade.c
+	<stdio.h>
+	<stdlib.h>
+
